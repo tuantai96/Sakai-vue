@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d2051f5-52f4-418c-9f49-b2e155f87165" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppConfig.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppEventBus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppMenu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BlocksDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChartDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dash-board.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Documentation-api.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EmptyPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FileDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FloatLabelDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FormLayoutDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IconDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InputDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InvalidStateDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MediaDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MenuDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MessagesDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MiscDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/OverlayDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PanelsDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TableDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TreeDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/menu/ConfirmationDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/CountryService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/NodeService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DQ8gKZGZFE2KeoutPv5j2RJJdm" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d2051f5-52f4-418c-9f49-b2e155f87165" name="Default Changelist" comment="" />
+      <created>1660620058205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660620058205</updated>
+      <workItem from="1660620063172" duration="3383000" />
+      <workItem from="1660623609823" duration="10596000" />
+      <workItem from="1660640002994" duration="1329000" />
+      <workItem from="1660641369433" duration="223000" />
+      <workItem from="1660641610711" duration="1883000" />
+      <workItem from="1660643540233" duration="3389000" />
+      <workItem from="1660646997347" duration="2482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Documentation-api.vue</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
